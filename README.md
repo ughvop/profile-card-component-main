@@ -16,7 +16,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [here](https://your-live-site-url.com](https://ughvop.github.io/profile-card-component-main/)
+- Live Site URL: [here](https://ughvop.github.io/profile-card-component-main/)
 
 ## My process
 
