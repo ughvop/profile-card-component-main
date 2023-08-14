@@ -15,7 +15,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/profile-card-component-css-and-flex-GsCsWW5A_5)
 - Live Site URL: [here](https://ughvop.github.io/profile-card-component-main/)
 
 ## My process
