@@ -1,0 +1,95 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background-color: hsl(185, 75%, 39%);
+}
+
+#containar {
+  background-color: white;
+  border-radius: 15px;
+  max-width: 18rem;
+  margin-inline: auto;
+  margin-top: 20vh;
+}
+
+.center {
+  text-align: center;
+}
+
+.backround-img > img {
+  max-width: 18rem;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.imgs {
+  position: relative;
+}
+
+.rounded-pic {
+  height: auto;
+  border: 4px solid white;
+  border-radius: 50%;
+  position: absolute;
+  right: 65%;
+  left: 35%;
+  top: 65%;
+}
+
+h1,
+p {
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+h1,
+.status {
+  font-weight: 700;
+  font-size: 18px;
+  color: hsl(229, 23%, 23%);
+}
+
+.address {
+  font-weight: 400;
+  font-size: 13px;
+  color: hsl(0, 0%, 59%);
+  padding-top: 0.5rem;
+}
+
+.title {
+  font-size: 9px;
+  letter-spacing: 1px;
+  color: hsl(0, 0%, 59%);
+  padding-top: 0.2rem;
+  margin-bottom: 1rem;
+}
+
+.age {
+  color: hsl(0, 0%, 59%);
+  font-weight: 400;
+}
+
+.info {
+  border-bottom: 1px solid hsl(0, 0%, 59%);
+  margin-top: 3.2rem;
+  padding-bottom: 1.4rem;
+}
+
+.data {
+  margin: 1rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+.attribution {
+  font-size: 10px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
