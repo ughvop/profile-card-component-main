@@ -6,8 +6,11 @@
   padding: 0;
 }
 
-html {
+body {
   background-color: hsl(185, 75%, 39%);
+  background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
+  background-position: top -30rem left -20rem, bottom -50rem right -20rem;
+  background-repeat: no-repeat;
 }
 
 #containar {
